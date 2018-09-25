@@ -1,6 +1,6 @@
 {
   "name": "@teamthread/eslint-config-thread",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Thread's JS linting.",
   "main": "src/eslintrc.js",
   "author": "Thread",
