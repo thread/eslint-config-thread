@@ -37,7 +37,7 @@ module.exports = {
 
     // generic rules
     'no-unused-vars': 'error',
-    'no-restricted-globals': ['error', 'event', 'fdescribe'],
+    'no-restricted-globals': ['error', 'event'],
 
     // react based rules
     'react/no-unescaped-entities': 'error',
