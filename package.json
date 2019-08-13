@@ -17,5 +17,8 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jest": "^21.22.0",
     "eslint-plugin-react": "^7.11.1"
+  },
+  "resolutions": {
+    "js-yaml": "3.13.1"
   }
 }
